@@ -6,7 +6,9 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-
+body{
+    background-color: #000g;
+}
 .container {
     max-width: 1140px;
     width: 100%;
